@@ -1,3 +1,7 @@
+--[[
+NOTE: This hasn't been tested yet, it's still a work in progress
+]]
+
 module("inbound.logger", package.seeall);
 require("msys.core");
 require("thread");
